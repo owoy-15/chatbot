@@ -1,4 +1,4 @@
-const Bubble = ({ message }: { message: any }) => {
+const Bubble = ({ message }) => {
   const isUser = message.role === "user";
   const containerCls = isUser
     ? "self-end bg-blue-500 text-white ml-8 mr-2"
