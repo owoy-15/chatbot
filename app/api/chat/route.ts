@@ -45,9 +45,10 @@ export async function POST(req: Request) {
       });
 
       const documents = await cursor.toArray();
+
       const docsMap = documents?.map((doc) => doc.text);
+
       docContext = JSON.stringify(docsMap);
-      console.log(docContext);
     } catch (error) {
       console.log("Error querying database:", error);
       docContext = "";
@@ -89,6 +90,8 @@ export async function POST(req: Request) {
     // const stream = OpenAIStream(response);
 
     // return new StreamingTextResponse(stream);
+
+    console.log(response.toTextStreamResponse());
 
     return response.toUIMessageStreamResponse();
   } catch (error) {

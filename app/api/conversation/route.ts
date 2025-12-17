@@ -82,7 +82,14 @@ END CONTEXT
     });
 
     // 5️⃣ Return a stream response compatible with UI
-    return response.toUIMessageStreamResponse();
+    // return response.toUIMessageStreamResponse();
+
+    // ⬇️ IMPORTANT: text() is a function
+    const text = await response.text;
+
+    return Response.json({
+      answer: text,
+    });
   } catch (error) {
     console.error("Error processing request:", error);
     return new Response(JSON.stringify({ error: error.message || error }), {
