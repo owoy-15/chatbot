@@ -91,6 +91,8 @@ export async function POST(req: Request) {
 
     // return new StreamingTextResponse(stream);
 
+    console.log(response);
+
     console.log(response.toTextStreamResponse());
 
     return response.toUIMessageStreamResponse();

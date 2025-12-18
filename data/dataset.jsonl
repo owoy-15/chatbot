@@ -1,0 +1,234 @@
+{"instruction": "What is Xue App?", "response": "Xue App is a learning assistant that helps users improve their Chinese through vocabulary, phrases, grammar, examples, and simple explanations."}
+{"instruction": "Tell me about Xue App.", "response": "Xue App is a Chinese-learning assistant designed to teach words, sentences, grammar, and reading through simple explanations."}
+{"instruction": "Can you explain what Xue App is?", "response": "Xue App is an app that helps users learn Chinese with vocabulary, example sentences, pronunciation tips, and grammar notes."}
+{"instruction": "Give details about Xue App.", "response": "Xue App provides Chinese-learning support including reading practice, vocabulary explanation, beginner to advanced phrases, and simple grammar guidance."}
+{"instruction": "What do you know about Xue App?", "response": "Xue App teaches Mandarin through vocabulary, sentences, grammar, and easy-to-understand examples."}
+{"instruction": "What is the meaning of 你好?", "response": "你好 (nǐ hǎo) means 'hello' in Chinese."}
+{"instruction": "Tell me about the meaning of 你好.", "response": "你好 (nǐ hǎo) is the most common Chinese greeting meaning 'hello'."}
+{"instruction": "Explain the word 你好.", "response": "你好 (nǐ hǎo) is a basic greeting in Mandarin Chinese meaning 'hello'."}
+{"instruction": "What does 谢谢 mean?", "response": "谢谢 (xiè xie) means 'thank you' in Chinese."}
+{"instruction": "Give details about 谢谢.", "response": "谢谢 (xiè xie) is used in Mandarin to express gratitude, meaning 'thank you'."}
+{"instruction": "How do you say goodbye in Chinese?", "response": "Goodbye in Chinese is 再见 (zài jiàn)."}
+{"instruction": "Explain how to say goodbye in Chinese.", "response": "You can say goodbye in Chinese using 再见 (zài jiàn), which means 'see you again'."}
+{"instruction": "What is the pinyin for 中国?", "response": "中国 is pronounced zhōng guó."}
+{"instruction": "Tell me the meaning of 中国.", "response": "中国 (zhōng guó) means 'China'."}
+{"instruction": "Teach me a basic Chinese sentence.", "response": "A basic sentence is 我喜欢学习中文 (wǒ xǐ huān xué xí zhōng wén), meaning 'I like studying Chinese'."}
+{"instruction": "How do I learn Chinese fast?", "response": "To learn Chinese quickly, practice vocabulary daily, listen to simple conversations, read short Chinese texts, and review regularly."}
+{"instruction": "Can you explain how to learn Chinese fast?", "response": "Learning Chinese fast requires daily practice, simple reading, listening to native audio, and reviewing vocabulary often."}
+{"instruction": "What is pinyin?", "response": "Pinyin is the Romanized spelling system for Chinese pronunciation, using letters to show how characters are pronounced."}
+{"instruction": "Explain tones in Chinese.", "response": "Mandarin has four main tones and one neutral tone. The tone changes the meaning of a syllable, so pronunciation must include tone."}
+{"instruction": "What is the meaning of 我?", "response": "我 (wǒ) means 'I' or 'me'."}
+{"instruction": "What is the meaning of 你?", "response": "你 (nǐ) means 'you'."}
+{"instruction": "What is the meaning of 他?", "response": "他 (tā) means 'he' or 'him'."}
+{"instruction": "What is the meaning of 她?", "response": "她 (tā) means 'she' or 'her'."}
+{"instruction": "What is the meaning of 我们?", "response": "我们 (wǒ men) means 'we' or 'us'."}
+{"instruction": "Teach me a beginner Chinese dialogue.", "response": "A simple dialogue: A: 你好！(Hello!) B: 你好，你好吗？(Hello, how are you?) A: 我很好，谢谢。你呢？(I’m good, thank you. And you?)"}
+{"instruction": "How do I ask 'What is this?' in Chinese?", "response": "You can say 这是什么？(zhè shì shén me?), which means 'What is this?'."}
+{"instruction": "Explain the structure of Chinese sentences.", "response": "Chinese sentences often follow the Subject–Verb–Object structure, such as 我吃饭 (I eat food)."}
+{"instruction": "How do I count from 1 to 10 in Chinese?", "response": "1–10 in Chinese: 一 yī, 二 èr, 三 sān, 四 sì, 五 wǔ, 六 liù, 七 qī, 八 bā, 九 jiǔ, 十 shí."}
+{"instruction": "What is Xue App?", "response": "Xue App is a mobile app designed to help learners study Chinese through stories, vocabulary, and interactive tools."}
+{"instruction": "Why should I use Xue App?", "response": "Because it provides structured lessons, stories, and vocabulary practice to improve your Chinese step by step."}
+{"instruction": "How is Xue App similar to Du Chinese?", "response": "Both apps focus on reading Chinese stories with difficulty levels and built-in dictionary support."}
+{"instruction": "How do I use the app as a beginner?", "response": "Start with the Beginner section, read simple stories, and study HSK 1 vocabulary."}
+{"instruction": "Where can I find reading lessons?", "response": "You can find all reading content in the Reading tab categorized by levels."}
+{"instruction": "How do I practice vocabulary?", "response": "You can practice vocabulary using the built-in flashcards and spaced repetition system."}
+{"instruction": "Does Xue App have a subscription?", "response": "Yes, the app offers a subscription that unlocks premium lessons and advanced features."}
+{"instruction": "What do I get with the premium plan?", "response": "You get unlimited reading, premium story packs, offline mode, and advanced vocabulary tools."}
+{"instruction": "Is the subscription required to use the app?", "response": "No, the app offers free lessons, but premium unlocks additional content."}
+{"instruction": "Who built Xue App?", "response": "Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction": "Who are the team members?", "response": "The development team includes Seak Leangeng, Chea Narong, Chan Bunrong, Orn Laihorng, and Chea Kimlay."}
+{"instruction": "Why did the team build this app?", "response": "They built it to help learners access high‑quality Chinese study materials easily."}
+{"instruction": "What technology was used to build Xue App?", "response": "The app was developed using JavaScript, TypeScript, React Native, and Node.js."}
+{"instruction": "How is the backend built?", "response": "The backend uses Node.js and Express with a cloud‑based database."}
+{"instruction": "What programming languages were used?", "response": "Mainly JavaScript and TypeScript."}
+{"instruction": "What books should I read as a beginner?", "response": "You can start with simple graded readers or HSK 1 beginner storybooks."}
+{"instruction": "Can you recommend a Chinese reading book?", "response": "Try reading 'Mandarin Companion' beginner-level stories."}
+{"instruction": "What book helps with Chinese grammar?", "response": "The book 'Basic Chinese Grammar' is great for beginners."}
+{"instruction": "What does 你好 mean?", "response": "你好 means 'hello' in Chinese."}
+{"instruction": "What is the meaning of 谢谢?", "response": "谢谢 means 'thank you'."}
+{"instruction": "What does 学校 mean?", "response": "学校 means 'school'."}
+{"instruction": "What does 水 mean?", "response": "水 means 'water' in English."}
+{"instruction": "What is the meaning of 家?", "response": "家 means 'home' or 'family'."}
+{"instruction": "What does 朋友 mean?", "response": "朋友 means 'friend'    ."}
+{"instruction": "What is the meaning of 爱?", "response": "爱 means 'love'."}
+{"instruction": "What does 工作 mean?", "response": "工作 means 'work' or 'job'."}
+{"instruction": "What is the meaning of 吃饭?", "response": "吃饭 means 'to eat' or 'having a meal'."}
+{"instruction": "What does 学习 mean?", "response": "学习 means 'to study' or 'learning'."}
+{"instruction": "What is the meaning of 电脑?", "response": "电脑 means 'computer'."}
+{"instruction": "What does 手机 mean?", "response": "手机 means 'mobile phone'."}
+{"instruction": "What is the meaning of 医院?", "response": "医院 means 'hospital'."}
+{"instruction": "What does 商店 mean?", "response": "商店 means 'shop' or 'store'."}
+{"instruction": "What is the meaning of 火车站?", "response": "火车站 means 'train station'."}
+{"instruction": "What does 飞机 mean?", "response": "飞机 means 'airplane'."}
+{"instruction": "What is the meaning of 公园?", "response": "公园 means 'park'."}
+{"instruction": "What does 图书馆 mean?", "response": "图书馆 means 'library'."}
+{"instruction": "What is the meaning of 超市?", "response": "超市 means 'supermarket'."}
+{"instruction": "What does 银行 mean?", "response": "银行 means 'bank'."}
+{"instruction": "What is the meaning of 邮局?", "response": "邮局 means 'post office'."}
+{"instruction": "What does 医生 mean?", "response": "医生 means 'doctor'."}
+{"instruction": "What is the meaning of 老师?", "response": "老师 means 'teacher'."}
+{"instruction": "What does 学生 mean?", "response": "学生 means 'student'."}
+{"instruction": "What is the meaning of 警察?", "response": "警察 means 'police officer'."}
+{"instruction": "What does 厨师 mean?", "response": "厨师 means 'chef' or 'cook'."}
+{"instruction": "What is the meaning of 司机?", "response": "司机 means 'driver'."}
+{"instruction": "What does 工程师 mean?", "response": "工程师 means 'engineer'."}
+{"instruction": "What is the meaning of 护士?", "response": "护士 means 'nurse'."}
+{"instruction": "What does 记者 mean?", "response": "记者 means 'journalist'."}
+{"instruction": "What is the meaning of 演员?", "response": "演员 means 'actor' or 'actress'."}
+{"instruction": "What does 歌手 mean?", "response": "歌手 means 'singer'."}
+{"instruction": "What is the meaning of 画家?", "response": "画家 means 'painter' or 'artist'."}
+{"instruction": "What does 作家 mean?", "response": "作家 means 'writer' or 'author'."}
+{"instruction": "What is the meaning of 运动员?", "response": "运动员 means 'athlete' or 'sports player'."}
+{"instruction": "What does 科学家 mean?", "response": "科学家 means 'scientist'."}
+{"instruction": "What is the meaning of 音乐家?", "response": "音乐家 means 'musician'."}
+{"instruction": "What does 政治家 mean?", "response": "政治家 means 'politician'."}
+{"instruction": "What is the meaning of 商人?", "response": "商人 means 'businessperson' or 'merchant'."}
+{"instruction": "What does 农民 mean?", "response": "农民 means 'farmer'."}
+{"instruction": "What is the meaning of 渔民?", "response": "渔民 means 'fisherman'."}
+{"instruction": "What does 建筑师 mean?", "response": "建筑师 means 'architect'."}
+{"instruction": "What is the meaning of 设计师?", "response": "设计师 means 'designer'."}
+{"instruction": "What does 律师 mean?", "response": "律师 means 'lawyer'."}
+{"instruction": "What is the meaning of 会计师?", "response": "会计师 means 'accountant'."}
+{"instruction": "What does 导游 mean?", "response": "导游 means 'tour guide'."}
+{"instruction": "What is the meaning of 翻译?", "response": "翻译 means 'translator' or 'interpreter'."}
+{"instruction": "What does 美容师 mean?", "response": "美容师 means 'beautician' or 'cosmetologist'."}
+{"instruction": "What is the meaning of 理发师?", "response": "理发师 means 'barber' or 'hairdresser'."}
+{"instruction": "What does 消防员 mean?", "response": "消防员 means 'firefighter'."}
+{"instruction": "What is the meaning of 邮递员?", "response": "邮递员 means 'mail carrier' or 'postman'."}
+{"instruction": "What does 保安 mean?", "response": "保安 means 'security guard'."}
+{"instruction": "What is the meaning of 清洁工?", "response": "清洁工 means 'cleaner' or 'janitor'."}
+{"instruction": "What does 理财顾问 mean?", "response": "理财顾问 means 'financial advisor'."}
+{"instruction": "What is the meaning of 心理医生?", "response": "心理医生 means 'psychologist' or 'therapist'."}
+{"instruction": "What does 营养师 mean?", "response": "营养师 means 'nutritionist'."}
+{"instruction": "What is the meaning of 兽医?", "response": "兽医 means 'veterinarian'."}
+{"instruction": "What does 舞蹈家 mean?", "response": "舞蹈家 means 'dancer'."}
+{"instruction": "What is the meaning of 摄影师?", "response": "摄影师 means 'photographer'."}
+{"instruction": "What does 导演 mean?", "response": "导演 means 'director' (in film or theater)."}
+{"instruction": "What is the meaning of 制片人?", "response": "制片人 means 'producer' (in film or TV)."}
+{"instruction": "What does 编剧 mean?", "response": "编剧 means 'screenwriter' or 'scriptwriter'."}
+{"instruction": "What is the meaning of 音响师?", "response": "音响师 means 'sound engineer'."}
+{"instruction": "What does 灯光师 mean?", "response": "灯光师 means 'lighting technician'."}
+{"instruction": "What is the meaning of 特效师?", "response": "特效师 means 'special effects artist'."}
+{"instruction": "What does 剪辑师 mean?", "response": "剪辑师 means 'editor' (in film or video)."}
+{"instruction": "What is the meaning of 制片助理?", "response": "制片助理 means 'production assistant'."}
+{"instruction": "What does 舞台监督 mean?", "response": "舞台监督 means 'stage manager'."}
+{"instruction": "What is the meaning of 化妆师?", "response": "化妆师 means 'makeup artist'."}
+{"instruction": "What does 服装设计师 mean?", "response": "服装设计师 means 'costume designer'."}
+{"instruction": "What is the meaning of 道具师?", "response": "道具师 means 'prop master'."}
+{"instruction": "What does 制片经理 mean?", "response": "制片经理 means 'production manager'."}
+{"instruction": "What is the meaning of 发行人?", "response": "发行人 means 'distributor'."}
+{"instruction": "What does 票务员 mean?", "response": "票务员 means 'ticket agent'."}
+{"instruction": "What is the meaning of 宣传员?", "response": "宣传员 means 'publicist'."}
+{"instruction": "What does 市场营销经理 mean?", "response": "市场营销经理 means 'marketing manager'."}
+{"instruction": "What is the meaning of 社交媒体经理?", "response": "社交媒体经理 means 'social media manager'."}
+{"instruction": "What does 公关经理 mean?", "response": "公关经理 means 'public relations manager'."}
+{"instruction": "What is the meaning of 活动策划师?", "response": "活动策划师 means 'event planner'."}
+{"instruction": "What does 品牌经理 mean?", "response": "品牌经理 means 'brand manager'."}
+{"instruction": "Who built Xue App?", "response": "Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction": "Where can I find reading lessons?", "response": "You can find all reading content in the Reading tab categorized by levels."}
+{"instruction": "What is the meaning of 谢谢?", "response": "谢谢 means 'thank you'."}
+{"instruction": "How is the backend built?", "response": "The backend uses Node.js and Express with a cloud‑based database."}
+{"instruction": "How do I practice vocabulary?", "response": "You can practice vocabulary using the built-in flashcards and spaced repetition system."}
+{"instruction": "Where can I find reading lessons?", "response": "You can find all reading content in the Reading tab categorized by levels."}
+{"instruction": "Is the subscription required to use the app?", "response": "No, the app offers free lessons, but premium unlocks additional content."}
+{"instruction": "Does Xue App have a subscription?", "response": "Yes, the app offers a subscription that unlocks premium lessons and advanced features."}
+{"instruction": "Who built Xue App?", "response": "Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction": "What is Xue App?", "response": "Xue App is a mobile app designed to help learners study Chinese through stories, vocabulary, and interactive tools."}
+{"instruction": "Why should I use Xue App?", "response": "Because it provides structured lessons, stories, and vocabulary practice to improve your Chinese step by step."}
+{"instruction": "How is the backend built?", "response": "The backend uses Node.js and Express with a cloud‑based database."}
+{"instruction": "What programming languages were used?", "response": "Mainly JavaScript and TypeScript."}
+{"instruction": "What is Xue App?", "response": "Xue App is a mobile app designed to help learners study Chinese through stories, vocabulary, and interactive tools."}
+{"instruction": "What book helps with Chinese grammar?", "response": "The book 'Basic Chinese Grammar' is great for beginners."}
+{"instruction": "Who built Xue App?", "response": "Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction": "How do I use the app as a beginner?", "response": "Start with the Beginner section, read simple stories, and study HSK 1 vocabulary."}
+{"instruction": "Can you recommend a Chinese reading book?", "response": "Try reading 'Mandarin Companion' beginner-level stories."}
+{"instruction": "Why should I use Xue App?", "response": "Because it provides structured lessons, stories, and vocabulary practice to improve your Chinese step by step."}
+{"instruction": "Can you recommend a Chinese reading book?", "response": "Try reading 'Mandarin Companion' beginner-level stories."}
+{"instruction": "Can you recommend a Chinese reading book?", "response": "Try reading 'Mandarin Companion' beginner-level stories."}
+{"instruction": "What technology was used to build Xue App?", "response": "The app was developed using JavaScript, TypeScript, React Native, and Node.js."}
+{"instruction": "What is Xue App?", "response": "Xue App is a mobile app designed to help learners study Chinese through stories, vocabulary, and interactive tools."}
+{"instruction": "What do I get with the premium plan?", "response": "You get unlimited reading, premium story packs, offline mode, and advanced vocabulary tools."}
+{"instruction": "Does Xue App have a subscription?", "response": "Yes, the app offers a subscription that unlocks premium lessons and advanced features."}
+{"instruction": "Where can I find reading lessons?", "response": "You can find all reading content in the Reading tab categorized by levels."}
+{"instruction": "What does 你好 mean?", "response": "你好 means 'hello' in Chinese."}
+{"instruction": "Who built Xue App?", "response": "Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction": "What technology was used to build Xue App?", "response": "The app was developed using JavaScript, TypeScript, React Native, and Node.js."}
+{"instruction": "How do I use the app as a beginner?", "response": "Start with the Beginner section, read simple stories, and study HSK 1 vocabulary."}
+{"instruction": "What books should I read as a beginner?", "response": "You can start with simple graded readers or HSK 1 beginner storybooks."}
+{"instruction": "Who are the team members?", "response": "The development team includes Seak Leangeng, Chea Narong, Chan Bunrong, Orn Laihorng, and Chea Kimlay."}
+{"instruction": "What do I get with the premium plan?", "response": "You get unlimited reading, premium story packs, offline mode, and advanced vocabulary tools."}
+{"instruction": "How is the backend built?", "response": "The backend uses Node.js and Express with a cloud‑based database."}
+{"instruction": "What is Xue App?", "response": "Xue App is a mobile app designed to help learners study Chinese through stories, vocabulary, and interactive tools."}
+{"instruction": "What book helps with Chinese grammar?", "response": "The book 'Basic Chinese Grammar' is great for beginners."}
+{"instruction": "How do I use the app as a beginner?", "response": "Start with the Beginner section, read simple stories, and study HSK 1 vocabulary."}
+{"instruction": "Does Xue App have a subscription?", "response": "Yes, the app offers a subscription that unlocks premium lessons and advanced features."}
+{"instruction": "How is Xue App similar to Du Chinese?", "response": "Both apps focus on reading Chinese stories with difficulty levels and built-in dictionary support."}
+{"instruction": "Does Xue App have a subscription?", "response": "Yes, the app offers a subscription that unlocks premium lessons and advanced features."}
+{"instruction": "Who are the team members?", "response": "The development team includes Seak Leangeng, Chea Narong, Chan Bunrong, Orn Laihorng, and Chea Kimlay."}
+{"instruction": "Who built Xue App?", "response": "Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction": "What do I get with the premium plan?", "response": "You get unlimited reading, premium story packs, offline mode, and advanced vocabulary tools."}
+{"instruction": "What is the meaning of 谢谢 ?", "response": "谢谢 means 'thank you'."}
+{"instruction": "What is the meaning of 学校 ?", "response": "学校 means 'school'."}
+{"instruction": "What is Xue App?", "response": "Xue App is a mobile app designed to help learners study Chinese through stories, vocabulary, and interactive tools."}
+{"instruction": "Why should I use Xue App?", "response": "Because it provides structured lessons, stories, and vocabulary practice to improve your Chinese step by step."}
+{"instruction": "How is Xue App similar to Du Chinese?", "response": "Both apps focus on reading Chinese stories with difficulty levels and built-in dictionary support."}
+{"instruction": "How do I use the app as a beginner?", "response": "Start with the Beginner section, read simple stories, and study HSK 1 vocabulary."}
+{"instruction": "Where can I find reading lessons?", "response": "You can find all reading content in the Reading tab categorized by levels."}
+{"instruction": "How do I practice vocabulary?", "response": "You can practice vocabulary using the built-in flashcards and spaced repetition system."}
+{"instruction": "Does Xue App have a subscription?", "response": "Yes, the app offers a subscription that unlocks premium lessons and advanced features."}
+{"instruction": "What do I get with the premium plan?", "response": "You get unlimited reading, premium story packs, offline mode, and advanced vocabulary tools."}
+{"instruction": "Is the subscription required to use the app?", "response": "No, the app offers free lessons, but premium unlocks additional content."}
+{"instruction": "Who built Xue App?", "response": "Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction": "Who are the team members?", "response": "The development team includes Seak Leangeng, Chea Narong, Chan Bunrong, Orn Laihorng, and Chea Kimlay."}
+{"instruction": "Why did the team build this app?", "response": "They built it to help learners access high-quality Chinese study materials easily."}
+{"instruction": "Who is the instructor supervising the project?", "response": "The project is supervised by a professor at the Royal University of Phnom Penh."}
+{"instruction": "What technology was used to build Xue App?", "response": "The app was developed using JavaScript, TypeScript, React Native, and Node.js."}
+{"instruction": "How is the backend built?", "response": "The backend uses Node.js and Express with a cloud-based database."}
+{"instruction": "What programming languages were used?", "response": "Mainly JavaScript and TypeScript."}
+{"instruction": "What books should I read as a beginner?", "response": "You can start with simple graded readers or HSK 1 beginner storybooks."}
+{"instruction": "Can you recommend a Chinese reading book?", "response": "Try reading 'Mandarin Companion' beginner-level stories."}
+{"instruction": "What book helps with Chinese grammar?", "response": "The book 'Basic Chinese Grammar' is great for beginners."}
+{"instruction": "What does 你好 mean?", "response": "你好 means 'hello' in Chinese."}
+{"instruction": "What is the meaning of 谢谢?", "response": "谢谢 means 'thank you'."}
+{"instruction": "What does 学校 mean?", "response": "学校 means 'school'."}
+{"instruction": "What does 水 mean?", "response": "水 means 'water' in English."}
+{"instruction": "What is the meaning of 家?", "response": "家 means 'home' or 'family'."}
+{"instruction": "What does 朋友 mean?", "response": "朋友 means 'friend'."}
+{"instruction": "What is the meaning of 爱?", "response": "爱 means 'love'."}
+{"instruction": "What does 工作 mean?", "response": "工作 means 'work' or 'job'."}
+{"instruction": "What is the meaning of 吃饭?", "response": "吃饭 means 'to eat' or 'having a meal'."}
+{"instruction": "What does 学习 mean?", "response": "学习 means 'to study' or 'learning'."}
+{"instruction": "What is the meaning of 电脑?", "response": "电脑 means 'computer'."}
+{"instruction": "What does 手机 mean?", "response": "手机 means 'mobile phone'."}
+{"instruction": "What is the meaning of 医院?", "response": "医院 means 'hospital'."}
+{"instruction": "What does 商店 mean?", "response": "商店 means 'shop' or 'store'."}
+{"instruction":"What is Xue App?","response":"Xue App is a mobile learning app designed to help users improve their Chinese reading, vocabulary, and comprehension skills."}
+{"instruction":"How do I check my bookmarked stories?","response":"Go to the Home tab and tap on 'Bookmarked' to see all the stories you saved."}
+{"instruction":"How can I view stories I marked as read?","response":"Tap the Home tab, then select 'Read' to see all the lessons you completed."}
+{"instruction":"What is the reading progress board?","response":"The reading progress board shows the total lessons you read, vocabulary learned, and characters recognized."}
+{"instruction":"How do I check my downloaded stories?","response":"Go to the Home tab and tap 'Downloads' to view stories saved for offline reading."}
+{"instruction":"What is the App Guide in Xue App?","response":"The App Guide explains the main features of Xue App and how to use the app efficiently."}
+{"instruction":"What is the Learning Guide used for?","response":"The Learning Guide gives step-by-step study recommendations for beginners, intermediate, and advanced learners."}
+{"instruction":"How do I access my account information?","response":"Open the Home tab, scroll down, tap Settings, then tap Account to view your profile details."}
+{"instruction":"Where can I manage my subscription?","response":"Subscription settings are found under Account → Subscription inside the app."}
+{"instruction":"How do I search for a story?","response":"Tap the search icon at the top of the Home screen and type a keyword or title."}
+{"instruction":"How do I subscribe to premium?","response":"Go to Account → Subscription, choose a plan, and follow the payment instructions."}
+{"instruction":"How much does the subscription cost?","response":"You can see the price directly in the Subscription page under the Account section."}
+{"instruction":"Why should I use Xue App?","response":"Xue App helps you build vocabulary, improve reading comprehension, and learn Chinese through real stories."}
+{"instruction":"How can Xue App improve my Chinese skills?","response":"By reading graded stories, reviewing saved words, and tracking progress daily."}
+{"instruction":"Who built Xue App?","response":"Xue App was built by Computer Science students from the Royal University of Phnom Penh."}
+{"instruction":"Why was Xue App created?","response":"It was created to help learners study Chinese more easily through structured reading materials."}
+{"instruction":"What technologies were used to build Xue App?","response":"The app uses technologies such as React Native, Node.js, TypeScript, and Firebase."}
+{"instruction":"Who are the developers of Xue App?","response":"The team members are Seak Leangeng, Chea Narong, Chan Bunrong, Orn Laihorng, and Chea Kimlay."}
+{"instruction":"Who supervises the Xue App project?","response":"A professor from the Royal University of Phnom Penh oversees and guides the development team."}
+{"instruction":"Where should beginners start reading?","response":"Beginners should start with HSK 1 stories and simple vocabulary lessons inside the app."}
+{"instruction":"Can Xue App help with vocabulary building?","response":"Yes, the app provides word lists, definitions, and sentence examples to build vocabulary."}
+{"instruction":"How can I save a word in Xue App?","response":"Tap any highlighted word in a story and select 'Save' to add it to your vocabulary list."}
+{"instruction":"How do I review saved vocabulary?","response":"Go to the Vocabulary section to see all the words you saved and practice them."}
+{"instruction":"Does Xue App support offline reading?","response":"Yes, you can download stories and read them later without internet."}
+{"instruction":"How do I download a story?","response":"Open the story and tap the download icon to save it for offline reading."}
+{"instruction":"What books do you recommend for beginners?","response":"For beginners, recommended books include HSK 1–2 readers and simple graded Chinese reading stories."}
+{"instruction":"How do I learn the Chinese word '苹果'?","response":"'苹果' means 'apple'. You can learn it by reading beginner lessons that include fruit vocabulary."}
+{"instruction":"What does the Chinese word '学习' mean?","response":"'学习' means 'to study' or 'to learn'. It appears often in beginner reading stories."}
+{"instruction":"Where can I find book recommendations?","response":"The app's Learning Guide and Reading sections both provide book recommendations by level."}
+{"instruction":"How can I track my daily study progress?","response":"Use the reading progress board to check how many lessons you completed and words you mastered each day."}

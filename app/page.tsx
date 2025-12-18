@@ -1,11 +1,13 @@
 "use client";
 
+// Recommend to use AI.Matey React SDK but that sucks
+// import { useChat } from "@ai-sdk/react";
+
 import { useChat } from "ai.matey.react.core";
 // import { UIMessage } from "@ai-sdk/react";
 import PromptSuggestionRow from "./components/PromptSuggestionRow";
 import LoadingBubble from "./components/LoadingBubble";
 import Bubble from "./components/Bubble";
-import { useEffect } from "react";
 
 export default function Home() {
   const {
@@ -18,10 +20,6 @@ export default function Home() {
   } = useChat({ api: "/api/chat" });
 
   const noMessages = !messages || messages.length === 0;
-
-  useEffect(() => {
-    messages.forEach((m) => console.log(m.role, m.content));
-  }, [messages]);
 
   const handlePrompt = (promptText: string) => {
     append(promptText);
@@ -36,9 +34,9 @@ export default function Home() {
       >
         {noMessages ? (
           <>
-            <p className="text-2xl font-semibold">F1 GPT Chat</p>
+            <p className="text-2xl font-semibold">Heavenly Chatbot</p>
             <p className="text-sm text-white/70 mt-2">
-              Try a prompt or ask something about Formula 1.
+              Try a prompt or ask something about study courses.
             </p>
             <PromptSuggestionRow onPromptClick={handlePrompt} />
           </>
