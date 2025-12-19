@@ -1,28 +1,66 @@
 "use client";
 
-// Recommend to use AI.Matey React SDK but that sucks
-// import { useChat } from "@ai-sdk/react";
-
-import { useChat } from "ai.matey.react.core";
-// import { UIMessage } from "@ai-sdk/react";
+import { useState } from "react";
 import PromptSuggestionRow from "./components/PromptSuggestionRow";
 import LoadingBubble from "./components/LoadingBubble";
 import Bubble from "./components/Bubble";
 
 export default function Home() {
-  const {
-    append,
-    isLoading,
-    messages,
-    input,
-    handleInputChange,
-    handleSubmit,
-  } = useChat({ api: "/api/chat" });
+  const [messages, setMessages] = useState([]);
+  const [input, setInput] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
 
   const noMessages = !messages || messages.length === 0;
 
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!input.trim()) return;
+
+    // Add user message to display
+    const userMessage = {
+      id: Date.now(),
+      role: "user",
+      content: input,
+    };
+    setMessages((prev) => [...prev, userMessage]);
+    setInput("");
+    setIsLoading(true);
+
+    try {
+      const response = await fetch("/api/conversation", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ prompt: input }),
+      });
+
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.error || "Failed to get response");
+      }
+
+      // Add AI response to messages
+      const aiMessage = {
+        id: Date.now() + 1,
+        role: "assistant",
+        content: data.answer,
+      };
+      setMessages((prev) => [...prev, aiMessage]);
+    } catch (error) {
+      console.error("Error:", error);
+      const errorMessage = {
+        id: Date.now() + 1,
+        role: "assistant",
+        content: "Sorry, I encountered an error. Please try again.",
+      };
+      setMessages((prev) => [...prev, errorMessage]);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
   const handlePrompt = (promptText: string) => {
-    append(promptText);
+    setInput(promptText);
   };
 
   return (
@@ -56,7 +94,7 @@ export default function Home() {
       >
         <input
           type="text"
-          onChange={handleInputChange}
+          onChange={(e) => setInput(e.target.value)}
           value={input}
           placeholder="Ask me something..."
           className="flex-1 rounded-full px-4 py-2 bg-white/6 placeholder:text-white/50 text-white outline-none focus:ring-2 focus:ring-blue-400 transition"

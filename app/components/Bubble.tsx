@@ -1,5 +1,6 @@
 const Bubble = ({ message }) => {
   const isUser = message.role === "user";
+
   const containerCls = isUser
     ? "self-end bg-blue-500 text-white ml-8 mr-2"
     : "self-start bg-white/90 text-slate-900 mr-8 ml-2";

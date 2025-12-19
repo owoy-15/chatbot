@@ -170,7 +170,7 @@ const insertDatasetToDB = async (filePath?: string) => {
   console.log("Dataset insert complete.");
 };
 
-createCollection().then(() => loadSampleData());
+// createCollection().then(() => loadSampleData());
 
 // clearAllDatas().then(() => console.log("Cleared all data."));
 

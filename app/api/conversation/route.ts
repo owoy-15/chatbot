@@ -61,7 +61,7 @@ export async function POST(req: Request) {
     // 3️⃣ Prepare system message template
     const systemMessage: CoreMessage = {
       role: "system",
-      content: `You are an AI assistant who knows everything about Formula One.
+      content: `You are an AI assistant who knows everything about Xue App.
 Use the following context to help answer questions:
 ----------------
 START CONTEXT
