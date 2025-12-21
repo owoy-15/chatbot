@@ -22,12 +22,7 @@ const {
 
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
-const f1Data = [
-  "https://duchinese.net/",
-  "https://duchinese.net/lessons",
-  "https://duchinese.net/grammar",
-  "https://duchinese.net/pricing",
-];
+const f1Data = ["https://en.wikipedia.org/wiki/Chinese_language"];
 
 const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
 const db = client.db(ASTRA_DB_API_ENDPOINT, { keyspace: ASTRA_DB_NAMESPACE });
@@ -170,7 +165,7 @@ const insertDatasetToDB = async (filePath?: string) => {
   console.log("Dataset insert complete.");
 };
 
-// createCollection().then(() => loadSampleData());
+createCollection().then(() => loadSampleData());
 
 // clearAllDatas().then(() => console.log("Cleared all data."));
 

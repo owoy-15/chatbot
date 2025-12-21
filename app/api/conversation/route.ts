@@ -88,7 +88,7 @@ END CONTEXT
     const text = await response.text;
 
     return Response.json({
-      answer: text,
+      answer: formatDocText(text),
     });
   } catch (error) {
     console.error("Error processing request:", error);
@@ -96,4 +96,15 @@ END CONTEXT
       status: 500,
     });
   }
+}
+
+function formatDocText(text: string) {
+  return (
+    text
+      // Add line breaks before numbered points (1. 2. 3.)
+      .replace(/(\d+)\.\s+/g, "\n$1. ")
+      // Add spacing after each point
+      .replace(/:\s+/g, ":\n   - ")
+      .trim()
+  );
 }
