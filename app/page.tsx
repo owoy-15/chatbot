@@ -74,7 +74,7 @@ export default function Home() {
           <>
             <p className="text-2xl font-semibold">Heavenly Chatbot</p>
             <p className="text-sm text-white/70 mt-2">
-              Try a prompt or ask something about study courses.
+              Try a prompt or ask something about Xue App.
             </p>
             <PromptSuggestionRow onPromptClick={handlePrompt} />
           </>

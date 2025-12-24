@@ -22,7 +22,9 @@ const {
 
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
-const f1Data = ["https://en.wikipedia.org/wiki/Chinese_language"];
+const f1Data = [
+  // Any links to load sample data from
+];
 
 const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
 const db = client.db(ASTRA_DB_API_ENDPOINT, { keyspace: ASTRA_DB_NAMESPACE });
@@ -165,7 +167,7 @@ const insertDatasetToDB = async (filePath?: string) => {
   console.log("Dataset insert complete.");
 };
 
-createCollection().then(() => loadSampleData());
+// createCollection().then(() => loadSampleData());
 
 // clearAllDatas().then(() => console.log("Cleared all data."));
 
