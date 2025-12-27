@@ -24,6 +24,7 @@ const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
 const f1Data = [
   // Any links to load sample data from
+  "",
 ];
 
 const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
